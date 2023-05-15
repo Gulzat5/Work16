@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Work16/static/css/main.073c9b0a.css",
+    "main.js": "/Work16/static/js/main.c5bc89ba.js",
+    "index.html": "/Work16/index.html",
+    "main.073c9b0a.css.map": "/Work16/static/css/main.073c9b0a.css.map",
+    "main.c5bc89ba.js.map": "/Work16/static/js/main.c5bc89ba.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.c5bc89ba.js"
+  ]
+}
